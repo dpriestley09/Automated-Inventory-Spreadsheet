@@ -9,6 +9,13 @@ The client's critical operational data was spread across more than 20 separate, 
 ## The Solution
 I designed and built a multi-tab Google Sheet application that fully automates the process. The tool features a centralized "database" tab for recipes and a dynamic "calculator" tab. It allows the user to select an event type from a dropdown menu, input a guest count, and instantly receive a complete inventory and costing report.
 
+<table>
+ <tr>
+    <td><img src="https://raw.githubusercontent.com/dpriestley09/Automated-Inventory-Spreadsheet/main/images/Screenshot%20(448).png" alt="Calculator Interface with Dropdown Menu"></td>
+    <td><img src="https://raw.githubusercontent.com/dpriestley09/Automated-Inventory-Spreadsheet/main/images/Screenshot%20(447).png" alt="Final Calculated Inventory Output"></td>
+ </tr>
+</table>
+
 ## Key Features & Skills Demonstrated
 * **Scalable Data Structure:** Designed a database tab for recipes and ingredients that can be easily updated by non-technical users.
 * **Dynamic User Interface:** Created a user-friendly calculator tab with error-proof inputs using **Data Validation** (dropdowns and number validation).
